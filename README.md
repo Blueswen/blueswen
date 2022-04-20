@@ -1,11 +1,12 @@
-### Hi, I am @Blueswen.
+# Hello there 👋
+<p align="center">
+  <a target="_blank" href="https://www.linkedin.com/in/blueswen/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?logo=linkedin&style=flat-square"/></a>
+  <a target="_blank" href="https://blueswen.github.io/"><img src="https://img.shields.io/badge/-Blog-00b894?logo=Jekyll&style=flat-square"/></a>
+  <a target="_blank" href="https://dev.to/blueswen"><img src="https://img.shields.io/badge/-dev.to-2d3436?logo=devdotto&style=flat-square"/></a>
+</p>
 
-<a target="_blank" href="https://www.linkedin.com/in/blueswen/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?logo=linkedin&style=flat-square"/></a>
-<a target="_blank" href="https://blueswen.github.io/"><img src="https://img.shields.io/badge/-Blog-00b894?logo=Jekyll&style=flat-square"/></a>
-<a target="_blank" href="https://dev.to/blueswen"><img src="https://img.shields.io/badge/-dev.to-2d3436?logo=devdotto&style=flat-square"/></a>
-
-
-Want to be a full stack developer, but just a full stack overflow developer right now.
+Hi, I am @Blueswen (Yi-Wei, Liu). Want to be a full stack developer, but just a full stack overflow developer right now.
+I am a Software Engineer focus on web application, DevOps and Cloud Native.
 
 ## My Tech Stack
 
