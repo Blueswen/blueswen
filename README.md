@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi, I am @Blueswen.
 
-<!--
-**Blueswen/blueswen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a target="_blank" href="https://www.linkedin.com/in/blueswen/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?logo=linkedin&style=flat-square"/></a>
+<a target="_blank" href="https://blueswen.github.io/"><img src="https://img.shields.io/badge/-Blog-00b894?logo=Jekyll&style=flat-square"/></a>
+<a target="_blank" href="https://dev.to/blueswen"><img src="https://img.shields.io/badge/-dev.to-2d3436?logo=devdotto&style=flat-square"/></a>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Want to be a full stack developer, but just a full stack overflow developer right now.
+
+## My Tech Stack
+
+![Vue.js](https://img.shields.io/badge/-Vue.js-2c3e50?style=flat-square&logo=vuedotjs)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![K8s](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
