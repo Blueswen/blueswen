@@ -4,9 +4,9 @@
   <a target="_blank" href="https://blueswen.github.io/"><img src="https://img.shields.io/badge/-Blog-00b894?logo=Jekyll&style=flat-square"/></a>
 </p>
 
-Hi, I am @Blueswen (Yi-Wei, Liu). Want to be a full stack developer, but just a full stack overflow developer right now.
+Hi, I am @Blueswen (Yi-Wei, Liu), a Software Engineer focus on Web Application, DevOps, Cloud Native and Developer Experience. 
 
-I am a Software Engineer focus on Web Application, DevOps, Cloud Native and Developer Experience.
+Want to be a full stack developer, but just a stack overflow developer right now.
 
 ## My Tech Stack
 
