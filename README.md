@@ -14,3 +14,7 @@ Want to be a full stack developer, but just a stack overflow developer right now
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![K8s](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+
+<p align="center">
+  <img align="center" alt="Blueswen's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=blueswen&theme=vue-dark&show_icons=true"/>
+</p>
